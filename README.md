@@ -122,23 +122,44 @@ The response is rendered on the same page.
 📦 Installation
 Clone the repo:
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/HealthcareChatbot.git
-cd HealthcareChatbot
+```bash
+
+git clone https://github.com/SachdevaVansh/Healthcare_Chatbot_APP.git
+cd Healthcare_Chatbot_APP
+```
 Create a virtual environment (optional)
+```
+bash
+conda create -p venv python=3.8 -y
+```
+Activate the virtual environment (if you created it)
+```
+bash
+conda activate venv/
+```
 
 Install dependencies:
+```
+bash
 
-bash
-'''
 pip install -r requirements.txt
+```
 Run the app:
-'''
+```
 bash
-Copy
-Edit
-python app.py
+python main.py
+```
+## 🔮 Future Improvements
+
+✅ Add streaming/chat history
+
+✅ Improve with attention visualization
+
+✅ Integrate authentication for sensitive usage
+
+✅ Deploy on cloud (AWS/GCP/Heroku)
+
+✅ Expand to multi-turn conversations with RAG/LLMs
+
 
 
