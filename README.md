@@ -72,7 +72,7 @@ Text preprocessing included:
 ![image](https://github.com/user-attachments/assets/948bb2fa-ce86-4eec-839d-ac167992d62d)
 
 3. Model Training
-- Fine-tuned T5ForConditionalGeneration on the prepared dataset.
+- Fine-tuned T5 For Conditional Generation on the prepared dataset.
 
 - Used PyTorch DataLoader for batching.
 
