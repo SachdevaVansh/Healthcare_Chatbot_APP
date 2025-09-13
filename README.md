@@ -117,7 +117,7 @@ The response is rendered on the same page.
 
 ##🧪 Sample Interaction
 
-![image](https://github.com/user-attachments/assets/67402bcb-f48d-405b-8c12-b768b30d6079)
+<img width="1356" height="674" alt="chatbot" src="https://github.com/user-attachments/assets/81034a30-3d77-41e5-b952-6a7feaf5d3b5" />
 
 📦 Installation
 Clone the repo:
